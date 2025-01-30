@@ -38,7 +38,7 @@ irrigation_recommendation 	= 	make_irrigation_recommendation(current_soil_moistu
  
 # Display irrigation recommendation 
 print("Irrigation Recommendation: ", irrigation_recommendation) 
-``` 
+
  
  
 
